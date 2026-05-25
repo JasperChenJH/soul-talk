@@ -46,15 +46,15 @@
 ## 系统展示
 
 <p align="center">
-  <img src="./soultalk1.jpg" width="750" alt="SoulTalk 系统展示图1">
+  <img src="./soultalk1.jpg" width="250" alt="SoulTalk 系统展示图1">
 </p>
 
 <p align="center">
-  <img src="./soultalk2.jpg" width="750" alt="SoulTalk 系统展示图2">
+  <img src="./soultalk2.jpg" width="250" alt="SoulTalk 系统展示图2">
 </p>
 
 <p align="center">
-  <img src="./soultalk3.jpg" width="750" alt="SoulTalk 系统展示图3">
+  <img src="./soultalk3.jpg" width="250" alt="SoulTalk 系统展示图3">
 </p>
 
 ---
