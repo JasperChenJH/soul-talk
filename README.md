@@ -38,7 +38,6 @@
 * 支持情绪得分记录、分页查询、删除和图表展示；
 * 支持后台管理员登录、注册、用户状态管理和 Word 文件管理。
 
-本项目适合作为大模型应用开发、AI Agent 后端设计、情绪陪伴系统、语音交互系统和 Spring Boot 企业级项目实践案例。
 
 ---
 
@@ -674,29 +673,7 @@ files/
 
 ---
 
-## 常用命令
 
-提交 README：
-
-```bash
-git add README.md
-git commit -m "docs: add project README"
-git push origin master
-```
-
-查看当前分支：
-
-```bash
-git branch
-```
-
-如果你的远程默认分支是 `main`：
-
-```bash
-git push origin main
-```
-
----
 
 ## 许可证
 
